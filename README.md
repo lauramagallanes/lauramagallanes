@@ -1,4 +1,4 @@
-# Hi, I'm Laura! 👋 <img align="right" alt="GIF" src="https://www.gifsanimados.org/data/media/230/pajaro-y-ave-imagen-animada-0473.gif" border="0" alt="pajaro-y-ave-imagen-animada-0481"/>
+# Hi, I'm Laura! 👋 <img align="left" alt="GIF" src="https://www.gifsanimados.org/data/media/230/pajaro-y-ave-imagen-animada-0473.gif" border="0" alt="pajaro-y-ave-imagen-animada-0481"/>
 
 
 <img align="right" alt="GIF" src="https://res.cloudinary.com/dgqyqqtk4/image/upload/v1676226223/samples/avatar-coding_gc7rdz.png" width="350" height="350" />

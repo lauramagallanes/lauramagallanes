@@ -6,7 +6,7 @@
 ## About me
 - 💻 I'm a Full Stack Software Developer passionate about technology, programming 👩🏼‍💻 and birding 📷🦉. 
 
-- 👩‍💼 I’m currently working  as a Teacher Assistant at 4Geeks Academy Latam.
+- 👩‍💼 I’m currently working  as a Teacher Assistant at 4Geeks Academy Latam, and as a Program Manager at 4Geeks Academy USA.
 
 - 📚 I love continuosly learning new things and challenging myself every day. 
 

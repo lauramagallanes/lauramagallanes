@@ -34,13 +34,7 @@
 ## How to reach me: 
 [Linkedin](https://www.linkedin.com/in/laura-magallanes-dev/) | lmagallanes.dv@gmail.com
 
-## Some stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lauramagallanes&show_icons=true&theme=radical)](https://git.io/streak-stats)
-
-[![laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauramagallanes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauramagallanes&layout=compact&show_icons=true&theme=radical)](https://github.com/lauramagallanes/github-readme-stats)
 
 
 

@@ -4,11 +4,11 @@
 <img align="right" alt="GIF" src="https://res.cloudinary.com/dgqyqqtk4/image/upload/v1676226223/samples/avatar-coding_gc7rdz.png" width="350" height="350" />
 
 ## About me
-- 💻 I'm a Full Stack Software Developer passionate about technology, programming 👩🏼‍💻 and birding 📷🦉. 
+- 💻 I'm a Software Developer and Tester, passionate about technology, programming 👩🏼‍💻 and birding 📷🦉. 
 
-- 👩‍💼 I’m currently working  as a Teacher Assistant at 4Geeks Academy Latam, and as a Program Manager at 4Geeks Academy USA.
+- 👩‍💼 I’m currently working  as a Program Manager at 4Geeks Academy USA.
 
-- 📚 I love continuosly learning new things and challenging myself every day. 
+- 📚 I love continuously learning new things and challenging myself every day. 
 
 - ✔️ My greatest strengths are logical thinking, the ability to teamwork, the ability to solve problems, great communication skills, and being self-taught. 
 

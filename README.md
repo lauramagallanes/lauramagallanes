@@ -27,6 +27,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="Flask" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40"/>         
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg"  title="AWS" alt="AWS" width="49" height="49"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg"  title="Playwright" alt="Playwright" width="49" height="49"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"  title="Selenium" alt="Selenium" width="49" height="49"/>
       
 </p>
 

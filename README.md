@@ -12,8 +12,6 @@
 
 - ✔️ My greatest strengths are logical thinking, the ability to teamwork, the ability to solve problems, great communication skills, and being self-taught. 
 
-- 📌 I am currently looking for my first job as a developer, where I can apply the knowledge and skills I have acquired and continue learning and improving as a programmer.
-
 - 👩🏻‍🔬 I am also a Pharmaceutical Chemist, with a Master's degree in Chemistry.
 
 ## Technologies & tools:
